@@ -1,5 +1,5 @@
 import 'package:material_ui/material_ui.dart';
 
 void main() {
-  runApp(MaterialApp(home: Text("Julitak!")));
+  runApp(const MaterialApp(home: Text("Juliiittaaaa!")));
 }
