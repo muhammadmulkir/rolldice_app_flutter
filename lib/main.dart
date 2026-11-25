@@ -13,7 +13,7 @@ void main() {
               ],
             ),
           ),
-          child: const Center(child: Text("Julitaaaa")),
+          child: const Center(child: Text("This is a test text"))
         ),
       ),
     ),
