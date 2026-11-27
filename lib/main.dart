@@ -11,6 +11,8 @@ void main() {
                 Color.fromARGB(255, 250, 198, 131),
                 Color.fromARGB(255, 245, 193, 52),
               ],
+              begin: Alignment.topRight,
+              end: Alignment.bottomRight,
             ),
           ),
           child: const Center(child: Text("This is a test text"))
